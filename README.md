@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @Gubrekafa1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m Arel
+- 👀 I’m interested in Girls have big co-
+- 🌱 I’m currently learning English
+- 💞️ I’m looking to collaborate on Senih
+- 📫 How to reach me instagram:muzlu_süt
+- 😄 Pronouns: Poop/Poopy
+- ⚡ Fun fact: I have a dinosaur on my house(Its my cat)
 
-<!---
-Gubrekafa1/Gubrekafa1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
